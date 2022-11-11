@@ -1,3 +1,5 @@
+#You can edit this script :D
+#If you are happy by doing it then go on but learn somthing from this *^_^*
 import os
 import sys
 import time

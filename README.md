@@ -9,7 +9,7 @@
  Download the requirements:
  
  sudo apt install python
- pip install -r requirements.txt
+ pkg install python(for termux)
  
  For running the script:
  python3 deface.py

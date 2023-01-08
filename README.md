@@ -8,7 +8,7 @@
  
  Download the requirements:
  
- sudo apt install python
+ sudo apt install python \n
  pkg install python(for termux)
  
  For running the script:
